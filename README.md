@@ -8,4 +8,4 @@ Only Movies Satisfying all the above Filters are shown. Adding too many filters 
 
  dont remember that movie with Will Smith and Charlize Theron? MoviePicker will help you. 
  
-If there are too many movies satisfying your filters selecting "show random" option to make the selection process easy.
+If there are too many movies satisfying your filters select "show random" option to make the selection process easy.
